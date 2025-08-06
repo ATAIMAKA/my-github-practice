@@ -1,4 +1,4 @@
-# my-github-practice
+# My-github-Practice
 ## Contributors
 _ **Yasir Abdullahi Kumo** _
 [yasirabdullahi580@gmail.com](mailto:yasirabdullahi580@gmail.com)
